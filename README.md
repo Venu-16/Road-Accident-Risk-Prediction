@@ -16,4 +16,3 @@ streamlit run streamlit_app.py
 ```
 
 If you'd like, I can add a training script that trains a model from a CSV dataset and saves `model.pkl`. Provide the dataset or tell me its path/format and I'll add it.
-# Road-Accident-Risk-Prediction
